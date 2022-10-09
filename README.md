@@ -136,7 +136,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 <details id=X>
 <summary><h2>Finish</h2></summary>
 
-_Congratulations friend, you've completed this course!_
+_Congratulations friend,you've completed this course!_
 
 <img src=https://octodex.github.com/images/benevocats.jpg alt=celebrate width=300 align=right>
 
